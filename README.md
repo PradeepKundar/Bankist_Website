@@ -1,4 +1,3 @@
-# Online-Bank
+# Online Bank
 
-
-
+A easy friendly Online Bank
